@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello ji
 some minor changes
+=======
+hello ji
+>>>>>>> 010b0280a314747b61a4871c2b9614a194e24bb6
